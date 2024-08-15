@@ -1,0 +1,7 @@
+opencv-python
+cvzone
+ultralytics==8.1.0
+numpy
+matplotlib
+Pillow
+tensorflow-gpu==2.0.0
